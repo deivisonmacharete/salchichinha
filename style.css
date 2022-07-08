@@ -1,0 +1,44 @@
+body {
+    background-color: #e8dab2;
+}
+
+#titulo {
+    
+    font-size: 26px;
+    line-height: -20%;
+}
+
+.nome-pgn {
+
+    font-size: 52px;
+    line-height: 0%;
+}
+
+img {
+    
+    height: 192px;
+    width: 300px;
+    float: right;
+
+
+}
+
+.conteudo {
+    background-color: white;
+    width: 800px;
+    height: 1000px;
+    border-radius: 10px;
+    padding: 15px;
+    margin: auto;
+    margin-top: 100px;
+    box-sizing: border-box;
+    box-shadow: 0 0 1em black;
+    
+}
+
+.center {
+    position: relative;
+    margin-left: 50%;
+    transform: translateX(-50%);
+}
+
